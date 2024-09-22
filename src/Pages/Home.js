@@ -12,18 +12,19 @@ const Home =() => {
                   <h4>AI && Front-End Developer</h4>
                    
                    <div className='pdf'>
-                       
-                       <a href='./media/CV_Cheima_BOUCHEHAM.pdf' target='_blank'>
+                   <a href={`${process.env.PUBLIC_URL}/media/CV_Cheima_BOUCHEHAM.pdf`} target="_blank" rel="noopener noreferrer">
                         Download CV in Frensh 
-                        <i className='fas fa-download'></i>
-                        </a>
+                      <i className='fas fa-download'></i>
+                    </a>
+                    </div>
+                    <div className='pdf2'>
+                          <a href={`${process.env.PUBLIC_URL}/media/cvCHEIMA.pdf`} target="_blank" rel="noopener noreferrer">
+                                Download CV in English
+                                <i className='fas fa-download'></i>
+                            </a>
+                      
                   </div>
-                  <div className='pdf2'>
-                       <a href='./media/cvCHEIMA.pdf' target='_blank'>
-                        Download CV in English
-                        <i className='fas fa-download'></i>
-                         </a>
-                  </div>
+                  
                 </div> 
           </div>
             

@@ -7,7 +7,10 @@ const Navigation = () => {
         <div className='sidebar'>
             <div className='id'>
               <div className='idContent'>
-                   <img src='./media/chaimapic.JPG' alt='profil-pic' width={150 }/>
+               <img src={`${process.env.PUBLIC_URL}/media/chaimapic.jpg`} alt="profil-pic" width={150} />
+
+
+                   
                    <h3>BOUCHEHAM CHEIMA</h3>
               </div>
             </div>
