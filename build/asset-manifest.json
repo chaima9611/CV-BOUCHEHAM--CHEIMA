@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CV-BOUCHEHA--CHEIMA/static/css/main.33b46b64.css",
+    "main.js": "/CV-BOUCHEHA--CHEIMA/static/js/main.fa2b75ad.js",
+    "static/js/453.da93cb64.chunk.js": "/CV-BOUCHEHA--CHEIMA/static/js/453.da93cb64.chunk.js",
+    "static/media/map.jpg": "/CV-BOUCHEHA--CHEIMA/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "static/media/ترجمة.jpg": "/CV-BOUCHEHA--CHEIMA/static/media/ترجمة.d6b25825d7473be2ab14.jpg",
+    "index.html": "/CV-BOUCHEHA--CHEIMA/index.html",
+    "static/media/shape.svg": "/CV-BOUCHEHA--CHEIMA/static/media/shape.1d026b20b3a18a74a971.svg",
+    "main.33b46b64.css.map": "/CV-BOUCHEHA--CHEIMA/static/css/main.33b46b64.css.map",
+    "main.fa2b75ad.js.map": "/CV-BOUCHEHA--CHEIMA/static/js/main.fa2b75ad.js.map",
+    "453.da93cb64.chunk.js.map": "/CV-BOUCHEHA--CHEIMA/static/js/453.da93cb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b46b64.css",
+    "static/js/main.fa2b75ad.js"
+  ]
+}
