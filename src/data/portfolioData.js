@@ -7,7 +7,7 @@ export const portfolioData = [
     source: 'https://github.com/chaima9611/WorldWideRecipes_react',
     info: 'WorldWideRecipes: A site for diverse collection of delicious recipes from different countries. check the site:',
     site:'https://chaima9611.github.io/RICEPES/',
-    picture: './media/recipes.png'
+    picture: process.env.PUBLIC_URL + '/media/recipes.png'
   },
   {
     id: 2,
@@ -25,7 +25,8 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/chaima9611/CV-PORTFOLIO-REACT.git',
     info: 'this cv portfolio .', 
-    picture: './media/cv.png'
+    picture: process.env.PUBLIC_URL + '/media/cv.png'
+    //picture:  './media/cv.png'
   },
   {
     id: 4,
@@ -34,7 +35,8 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-python','fab fa-react'],
     source: 'https://github.com/chaima9611/Prediction/upload',
     info: 'predictive analytics system for Covid-19, that can evaluate data of patients to predict the final state of covid-19 patients, whether is it going to improve or worsn. Moreover, it predicts if the patient is going to die or not depending on specific features with react interface to show predictions easelly to the user (Doctors).',
-    picture: './media/death prediction.png'
+    picture: process.env.PUBLIC_URL + '/media/death prediction.png'
+    //picture: './media/death prediction.png'
   },
   {
     id: 5,
