@@ -57,7 +57,7 @@ const Navigation = () => {
             <div className='socialNetwork'>
                 <ul>
                     <li>
-                        <a href='https://www.linkedin.com/in/cheima-boucheham-a6b7a3250/' target={'blank'} rel='noopener noreferre'>
+                        <a href='https://www.linkedin.com/in/cheima-boucheham-3394a22b7/' target={'blank'} rel='noopener noreferre'>
                             <i className='fab fa-linkedin'></i>
                         </a>
                     </li>
