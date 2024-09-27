@@ -1,5 +1,7 @@
 .knowledges {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(35rem, 1fr)); // Creates a responsive grid
+  gap: 40px; // Space between grid items
   min-height: $minHeight;
     .knowledgesComponents {
       min-height: $minHeight;

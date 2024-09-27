@@ -1,8 +1,8 @@
 .portfolio {
-  display: flex;
+  
   .portfolioContent {
     width: 100%;
-    display: grid;
+    display: flex;
     position: relative;
     min-height: $minHeight;
     grid-template-columns: 1fr;
@@ -108,7 +108,9 @@
       @include verticalCenter;
 
       i {
-        font-size: 1.4rem;
+        font-size: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
         padding: 0 .35rem;
         color: $color-5;
         text-shadow: 0 0px 1px $color-1;
@@ -117,7 +119,7 @@
     h3 {
       grid-area: 2;
       font-family: $font-2;
-      font-size: 1.65rem;
+      font-size: 0.9rem;
       @include verticalCenter;
       justify-content: left;
       color: $color-5;
@@ -219,12 +221,26 @@
   }
 }
 @media (max-width: 650px) and (min-width: 521px){
+  
+    
   .portfolioContent {
     .project {
       width: 49% !important;
+      h3{
+        grid-area: 2;
+        font-family: $font-2;
+        font-size: 1rem;
+        @include verticalCenter;
+        justify-content: left;
+        color: $color-5;
+
+      }
 
       i {
         font-size: 1rem;
+      }
+      h3{
+        font-size: 2rem !important;
       }
     }
     .infosContent {
@@ -249,3 +265,4 @@
     }
   }
 }
+
