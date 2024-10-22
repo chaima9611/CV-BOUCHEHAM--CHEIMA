@@ -28,7 +28,7 @@ const Contact =() => {
                                     <span className='clickInput' 
                                         style={{ cursor: 'pointer' }} 
                                         onClick={() => { alert('The phone number has been copied successfully.');}}>
-                                        +213665728667
+                                        +213665728***
                                     </span>
                                 </CopyToClipboard>
                             </li>
