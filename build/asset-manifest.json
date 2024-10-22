@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CV-BOUCHEHAM--CHEIMA/static/css/main.1c44c89e.css",
-    "main.js": "/CV-BOUCHEHAM--CHEIMA/static/js/main.088ed9d4.js",
+    "main.css": "/CV-BOUCHEHAM--CHEIMA/static/css/main.137f04a6.css",
+    "main.js": "/CV-BOUCHEHAM--CHEIMA/static/js/main.000a1382.js",
     "static/js/453.da93cb64.chunk.js": "/CV-BOUCHEHAM--CHEIMA/static/js/453.da93cb64.chunk.js",
     "static/media/map.jpg": "/CV-BOUCHEHAM--CHEIMA/static/media/map.3e5949c9b6f7cd03bd31.jpg",
     "static/media/ترجمة.jpg": "/CV-BOUCHEHAM--CHEIMA/static/media/ترجمة.d6b25825d7473be2ab14.jpg",
     "index.html": "/CV-BOUCHEHAM--CHEIMA/index.html",
     "static/media/shape.svg": "/CV-BOUCHEHAM--CHEIMA/static/media/shape.1d026b20b3a18a74a971.svg",
-    "main.1c44c89e.css.map": "/CV-BOUCHEHAM--CHEIMA/static/css/main.1c44c89e.css.map",
-    "main.088ed9d4.js.map": "/CV-BOUCHEHAM--CHEIMA/static/js/main.088ed9d4.js.map",
+    "main.137f04a6.css.map": "/CV-BOUCHEHAM--CHEIMA/static/css/main.137f04a6.css.map",
+    "main.000a1382.js.map": "/CV-BOUCHEHAM--CHEIMA/static/js/main.000a1382.js.map",
     "453.da93cb64.chunk.js.map": "/CV-BOUCHEHAM--CHEIMA/static/js/453.da93cb64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c44c89e.css",
-    "static/js/main.088ed9d4.js"
+    "static/css/main.137f04a6.css",
+    "static/js/main.000a1382.js"
   ]
 }
