@@ -31,3 +31,10 @@
       }
     }
   }
+  @media screen and (max-width: 500px){
+    .notFound {
+      display: grid !important;
+      grid-template-columns: 1fr !important;
+      grid-template-rows: 1fr 1fr 180px 180px !important;
+      
+  }}
